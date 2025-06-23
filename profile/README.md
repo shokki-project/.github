@@ -1,7 +1,7 @@
 # The Shokki Project
 
 <p align="center">
-  <img src="../assets/logo-transparent.png" alt="The Shokki Project Logo" width="300"/>
+  <img src="https://github.com/user-attachments/assets/c4403281-c624-4a73-9c96-61e620e0094f" alt="The Shokki Project Logo" width="300"/>
 </p>
 
 <h4 align="center">Weaving the future of networking and infrastructure.</h4>
